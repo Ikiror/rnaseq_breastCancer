@@ -1,0 +1,12 @@
+HER21	/data/users/aikiror/rnaseq/outputFiles/mappedReadsHisat_num7/HER21_mapped.bam
+HER22	/data/users/aikiror/rnaseq/outputFiles/mappedReadsHisat_num7/HER22_mapped.bam
+HER23	/data/users/aikiror/rnaseq/outputFiles/mappedReadsHisat_num7/HER23_mapped.bam
+NonTNBC1	/data/users/aikiror/rnaseq/outputFiles/mappedReadsHisat_num7/NonTNBC1_mapped.bam
+NonTNBC2	/data/users/aikiror/rnaseq/outputFiles/mappedReadsHisat_num7/NonTNBC2_mapped.bam
+NonTNBC3	/data/users/aikiror/rnaseq/outputFiles/mappedReadsHisat_num7/NonTNBC3_mapped.bam
+Normal1	/data/users/aikiror/rnaseq/outputFiles/mappedReadsHisat_num7/Normal1_mapped.bam
+Normal2	/data/users/aikiror/rnaseq/outputFiles/mappedReadsHisat_num7/Normal2_mapped.bam
+Normal3	/data/users/aikiror/rnaseq/outputFiles/mappedReadsHisat_num7/Normal3_mapped.bam
+TNBC1	/data/users/aikiror/rnaseq/outputFiles/mappedReadsHisat_num7/TNBC1_mapped.bam
+TNBC2	/data/users/aikiror/rnaseq/outputFiles/mappedReadsHisat_num7/TNBC2_mapped.bam
+TNBC3	/data/users/aikiror/rnaseq/outputFiles/mappedReadsHisat_num7/TNBC3_mapped.bam

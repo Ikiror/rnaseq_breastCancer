@@ -1,0 +1,12 @@
+HER21	../breastCancerRawData/breastcancer_de/reads/HER21_R1.fastq.gz	../breastCancerRawData/breastcancer_de/reads/HER21_R2.fastq.gz
+HER22	../breastCancerRawData/breastcancer_de/reads/HER22_R1.fastq.gz	../breastCancerRawData/breastcancer_de/reads/HER22_R2.fastq.gz
+HER23	../breastCancerRawData/breastcancer_de/reads/HER23_R1.fastq.gz	../breastCancerRawData/breastcancer_de/reads/HER23_R2.fastq.gz
+NonTNBC1	../breastCancerRawData/breastcancer_de/reads/NonTNBC1_R1.fastq.gz	../breastCancerRawData/breastcancer_de/reads/NonTNBC1_R2.fastq.gz
+NonTNBC2	../breastCancerRawData/breastcancer_de/reads/NonTNBC2_R1.fastq.gz	../breastCancerRawData/breastcancer_de/reads/NonTNBC2_R2.fastq.gz
+NonTNBC3	../breastCancerRawData/breastcancer_de/reads/NonTNBC3_R1.fastq.gz	../breastCancerRawData/breastcancer_de/reads/NonTNBC3_R2.fastq.gz
+Normal1	../breastCancerRawData/breastcancer_de/reads/Normal1_R1.fastq.gz	../breastCancerRawData/breastcancer_de/reads/Normal1_R2.fastq.gz
+Normal2	../breastCancerRawData/breastcancer_de/reads/Normal2_R1.fastq.gz	../breastCancerRawData/breastcancer_de/reads/Normal2_R2.fastq.gz
+Normal3	../breastCancerRawData/breastcancer_de/reads/Normal3_R1.fastq.gz	../breastCancerRawData/breastcancer_de/reads/Normal3_R2.fastq.gz
+TNBC1	../breastCancerRawData/breastcancer_de/reads/TNBC1_R1.fastq.gz	../breastCancerRawData/breastcancer_de/reads/TNBC1_R2.fastq.gz
+TNBC2	../breastCancerRawData/breastcancer_de/reads/TNBC2_R1.fastq.gz	../breastCancerRawData/breastcancer_de/reads/TNBC2_R2.fastq.gz
+TNBC3	../breastCancerRawData/breastcancer_de/reads/TNBC3_R1.fastq.gz	../breastCancerRawData/breastcancer_de/reads/TNBC3_R2.fastq.gz
